@@ -2,11 +2,11 @@
 
 <div align="center">
 
-[![FarmingSimulator-25](https://img.shields.io/badge/FarmingSimulator-25-73A302?style=flat-square)](https://www.farming-simulator.com/)
+[![FarmingSimulator-25](https://img.shields.io/badge/FarmingSimulator-25-73A302?style=flat-square)](https://www.farming-simulator.com/mods.php?title=fs2025)
+[![Last commit](https://img.shields.io/github/last-commit/Peppie84/FS25_ExtendedLeasing?style=flat-square&color=important)](https://github.com/Peppie84/FS25_ExtendedLeasing/commits/development)
 [![Modhub Version](https://img.shields.io/badge/Modhub-v1.0.0.0-green?style=flat-square)](xxxx)
-[![GitHub issues](https://img.shields.io/github/issues/Peppie84/FS22_ExtendedLeasing?style=flat-square)](https://github.com/Peppie84/FS22_ExtendedLeasing/issues)
+[![GitHub issues](https://img.shields.io/github/issues/Peppie84/FS25_ExtendedLeasing?style=flat-square)](https://github.com/Peppie84/FS25_ExtendedLeasing/issues)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
-[![Last commit](https://img.shields.io/github/last-commit/Peppie84/FS22_ExtendedLeasing?style=flat-square&color=important)](https://github.com/Peppie84/FS22_ExtendedLeasing/commits/development)
 
 <br />
 
