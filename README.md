@@ -24,6 +24,7 @@
 
 <p align="center">
     <img src="documents/screen1-v1.0.0.0.png" style="width: 40%;">
+    <br />
     <img src="documents/screen2-v1.0.0.0.png" style="width: 40%;">
     <br />
     <img src="documents/screen3-v1.0.0.0.png" style="width: 40%;">
