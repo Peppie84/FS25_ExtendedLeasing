@@ -18,7 +18,7 @@
 <p align="center">
     Stop with breaking down the dealer's tractors and equipment and not having to pay for it.
     <br />
-    With this mod you have to pay the repair costs when you return the tractor or equipment. Additionally you've to pay washing costs, max 30% of the basic costs (deposit), for a dirty tractor or equipment.
+    With this mod you have to pay the repair costs when you return the tractor or equipment. Additionally you've to pay washing costs, max 30% of the base costs (deposit), for a dirty tractor or equipment.
     <br />
     For this you get back the base costs (deposit) that was paid at the beginning.
 </p>
