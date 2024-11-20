@@ -3,8 +3,8 @@
 --
 -- Initialize SellVehicleEventExtended
 --
--- Copyright (c) Peppie84, 2023
--- https://github.com/Peppie84/FS22_ExtendedLeasing
+-- Copyright (c) Peppie84, 2024
+-- https://github.com/Peppie84/FS25_ExtendedLeasing
 --
 ---@type string directory of the mod.
 local modDirectory = g_currentModDirectory or ''
