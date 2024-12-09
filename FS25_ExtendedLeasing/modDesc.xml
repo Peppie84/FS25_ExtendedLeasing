@@ -5,6 +5,7 @@
   <title>
     <en>Extended Leasing</en>
     <de>Erweitertes Leasing</de>
+	<tr>Genişletilmiş Kiralama</tr>
   </title>
   <description>
     <en><![CDATA[Stop with breaking down the dealer's tractors and equipment and not having to pay for it.
@@ -31,10 +32,12 @@ Weitere Informationen, Hilfe und Probleme melden findest Du unter <a href='https
     <text name="base_costs">
       <en>Base Costs Return</en>
       <de>Kaution zurück</de>
+	  <tr>Temel Masrafların İadesi</tr>
     </text>
     <text name="washing_costs">
       <en>Washing Costs</en>
       <de>Reinigungsgebühr</de>
+	  <tr>Yıkama Masrafı</tr>
     </text>
   </l10n>
 </modDesc>
