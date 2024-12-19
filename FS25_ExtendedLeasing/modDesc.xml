@@ -7,6 +7,7 @@
     <de>Erweitertes Leasing</de>
 	  <tr>Genişletilmiş Kiralama</tr>
     <br>Locação estendido</br>
+    <it>Noleggio Esteso</it>
   </title>
   <description>
     <en><![CDATA[Stop with breaking down the dealer's tractors and equipment and not having to pay for it.
@@ -37,6 +38,13 @@ Para isso, você recebe de volta os custos base (depósito) que foram pagos no i
 
 Para mais informações, ajuda e relatórios de problemas, visite o <a href='https://github.com/Peppie84/FS25_ExtendedLeasing'>GitHub</a>.
 ]]></br>
+    <it><![CDATA[Stop con il rompere i trattori e le attrezzature del rivenditore senza dover pagare per i danni.
+Con questa mod devi pagare i costi di riparazione quando restituisci il trattore o l'attrezzatura. Inoltre, devi pagare i costi di lavaggio, massimo il 30% dei costi base (deposito), per un trattore o un'attrezzatura sporchi.
+
+Per questo ti viene restituito il deposito che è stato pagato all'inizio.
+
+Per maggiori informazioni, assistenza e segnalazione di problemi, visita <a href='https://github.com/Peppie84/FS25_ExtendedLeasing'>GitHub</a>.
+]]></it>
   </description>
   <iconFilename>icon_ExtendedLeasing.dds</iconFilename>
   <multiplayer supported="true" />

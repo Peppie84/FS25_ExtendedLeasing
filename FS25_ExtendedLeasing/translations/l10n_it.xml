@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+  <translationContributors>FirenzeIT</translationContributors>
+  <elements>
+    <e k="base_costs" v="Costo base di ritorno"/>
+    <e k="washing_costs" v="Costo lavaggio"/>
+  </elements>
+</l10n>
