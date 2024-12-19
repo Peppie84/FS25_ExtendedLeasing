@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<modDesc descVersion="92">
+<modDesc descVersion="94">
   <author>Peppie84</author>
   <version>1.0.0.0</version>
   <title>
@@ -28,16 +28,5 @@ Weitere Informationen, Hilfe und Probleme melden findest Du unter <a href='https
   <extraSourceFiles>
     <sourceFile filename="src/main.lua" />
   </extraSourceFiles>
-  <l10n>
-    <text name="base_costs">
-      <en>Base Costs Return</en>
-      <de>Kaution zurück</de>
-	  <tr>Temel Masrafların İadesi</tr>
-    </text>
-    <text name="washing_costs">
-      <en>Washing Costs</en>
-      <de>Reinigungsgebühr</de>
-	  <tr>Yıkama Masrafı</tr>
-    </text>
-  </l10n>
+  <l10n filenamePrefix="translations/l10n" />
 </modDesc>
