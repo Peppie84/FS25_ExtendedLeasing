@@ -3,6 +3,6 @@
   <translationContributors>Gonimy_Vetrom</translationContributors>
   <elements>
     <e k="base_costs" v="Повернення базових витрат"/>
-    <e k="washing_costs" v="Витрати на майку"/>
+    <e k="washing_costs" v="Витрати на мийку"/>
   </elements>
 </l10n>
