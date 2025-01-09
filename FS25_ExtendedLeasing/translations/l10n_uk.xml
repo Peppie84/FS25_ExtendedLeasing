@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+  <translationContributors>Gonimy_Vetrom</translationContributors>
+  <elements>
+    <e k="base_costs" v="Повернення базових витрат"/>
+    <e k="washing_costs" v="Витрати на мийку"/>
+  </elements>
+</l10n>
