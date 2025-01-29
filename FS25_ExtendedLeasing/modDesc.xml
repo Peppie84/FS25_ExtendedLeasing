@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
-<modDesc descVersion="92">
+<modDesc descVersion="94">
   <author>Peppie84</author>
-  <version>1.0.0.0</version>
+  <version>1.1.0.0</version>
   <title>
     <en>Extended Leasing</en>
     <de>Erweitertes Leasing</de>
+    <tr>Genişletilmiş Kiralama</tr>
+    <br>Locação Estendido</br>
+    <it>Noleggio Esteso</it>
   </title>
   <description>
     <en><![CDATA[Stop with breaking down the dealer's tractors and equipment and not having to pay for it.
 With this mod you have to pay the repair costs when you return the tractor or equipment. Additionally you've to pay washing costs, max 30% of the base costs (deposit), for a dirty tractor or equipment.
 
 For this you get back the base costs (deposit) that was paid at the beginning.
+
+Changelog v1.1.0.0:
+- Moddesc update
+- Added translation br,tr and it
+- Fixed bug for additional costs for selling owned vehicles
 
 For more information, help, and reporting issues please visit <a href='https://github.com/Peppie84/FS25_ExtendedLeasing'>GitHub</a>.
 ]]></en>
@@ -19,22 +27,54 @@ Mit dieser Mod müsst ihr die Reperaturkosten bei der Rückgabe des Schleppers o
 
 Dafür bekommst du die Basiskosten (Kaution) die Anfangs bezahlt wurde, wieder zurück.
 
+Changelog v1.1.0.0:
+- Moddesc aktualisiert
+- Neue Übersetzung für br,tr und it
+- Bug behoben, der für zusätzliche Kosten sorgt beim verkauf von gekauften Fahrzeugen
+
 Weitere Informationen, Hilfe und Probleme melden findest Du unter <a href='https://github.com/Peppie84/FS25_ExtendedLeasing'>GitHub</a>.
 ]]></de>
+    <tr><![CDATA[Bayinin traktörlerini ve ekipmanlarını parçalayıp bunun için ödeme yapmaktan vazgeçin.
+Bu mod ile traktörü veya ekipmanı iade ettiğinizde onarım masraflarını ödemeniz gerekir. Ayrıca kirli bir traktör veya ekipman için yıkama masraflarını, temel masrafların (depozito) en fazla %30'unu ödemeniz gerekir.
+
+Bunun için başlangıçta ödenen temel masrafları (depozito) geri alırsınız.
+
+Değişiklik günlüğü v1.1.0.0:
+- Moddesc güncellemesi
+- br,tr ve it çevirileri eklendi
+- Sahip olunan araçların satışı için ek maliyetler için hata düzeltildi
+
+Daha fazla bilgi, yardım ve sorun bildirme için lütfen <a href='https://github.com/Peppie84/FS25_ExtendedLeasing'>GitHub</a> adresini ziyaret edin.
+]]></tr>
+    <br><![CDATA[Pare de quebrar os tratores e equipamentos do revendedor e não ter que pagar por isso.
+Com este mod, você tem que pagar os custos de reparo quando devolver o trator ou equipamento. Além disso, você tem que pagar os custos de lavagem, no máximo 30% dos custos base (depósito), para um trator ou equipamento sujo.
+
+Para isso, você recebe de volta os custos base (depósito) que foram pagos no início.
+
+Changelog v1.1.0.0:
+- Atualização do Moddesc
+- Adicionada tradução br,tr e it
+- Corrigido bug para custos adicionais para vender veículos próprios
+
+Para mais informações, ajuda e relatórios de problemas, visite o <a href='https://github.com/Peppie84/FS25_ExtendedLeasing'>GitHub</a>.
+]]></br>
+    <it><![CDATA[Stop con il rompere i trattori e le attrezzature del rivenditore senza dover pagare per i danni.
+Con questa mod devi pagare i costi di riparazione quando restituisci il trattore o l'attrezzatura. Inoltre, devi pagare i costi di lavaggio, massimo il 30% dei costi base (deposito), per un trattore o un'attrezzatura sporchi.
+
+Per questo ti viene restituito il deposito che è stato pagato all'inizio.
+
+Changelog v1.1.0.0:
+- Aggiornamento Moddesc
+- Aggiunta traduzione br, tr e it
+- Corretto bug per costi aggiuntivi per la vendita di veicoli di proprietà
+
+Per maggiori informazioni, assistenza e segnalazione di problemi, visita <a href='https://github.com/Peppie84/FS25_ExtendedLeasing'>GitHub</a>.
+]]></it>
   </description>
   <iconFilename>icon_ExtendedLeasing.dds</iconFilename>
   <multiplayer supported="true" />
   <extraSourceFiles>
     <sourceFile filename="src/main.lua" />
   </extraSourceFiles>
-  <l10n>
-    <text name="base_costs">
-      <en>Base Costs Return</en>
-      <de>Kaution zurück</de>
-    </text>
-    <text name="washing_costs">
-      <en>Washing Costs</en>
-      <de>Reinigungsgebühr</de>
-    </text>
-  </l10n>
+  <l10n filenamePrefix="translations/l10n" />
 </modDesc>

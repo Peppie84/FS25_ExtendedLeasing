@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<l10n>
+  <translationContributors>Peppie84</translationContributors>
+  <elements>
+    <e k="base_costs" v="Kaution zurück"/>
+    <e k="washing_costs" v="Reinigungsgebühr"/>
+  </elements>
+</l10n>

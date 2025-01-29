@@ -19,7 +19,7 @@ function SellVehicleEventExtended:run(overwrittenFunc, connection)
             local farmId = self.vehicle:getOwnerFarmId()
             local farm = g_farmManager:getFarmById(farmId)
 
-            if self.vehicle.propertyState ~= Vehicle.PROPERTY_STATE_OWNED then
+            if self.vehicle.propertyState ~= VehiclePropertyState.OWNED then
                 if farmId ~= nil and farmId ~= FarmManager.SPECTATOR_FARM_ID and farm ~= nil then
                     local vehiclePrice = self.vehicle:getPrice()
                     local depositReturn = MathUtil.round(vehiclePrice * EconomyManager.DEFAULT_LEASING_DEPOSIT_FACTOR, 0)

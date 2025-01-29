@@ -48,7 +48,7 @@ $xmlStreamWriter.Close()
 
 # Make test run (add testrunner path to your environment path)
 New-Item -ItemType Directory -Force -Path "$testRunnerLogPath"
-TestRunner_public --logPath "$testRunnerLogPath" --outputPath "$testRunnerLogPath" --noPause "$modDirectory\"
+LS25TestRunner_public --logPath "$testRunnerLogPath" --outputPath "$testRunnerLogPath" --noPause "$modDirectory\"
 
 # Make zip file
 7z a -bd -stl -tzip -mx=9 "$modName.zip" "$modDirectory/."
