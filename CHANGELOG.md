@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 ## [Unreleased]
+
+
+## [v1.1.0.0] - {waiting-for-modhub}
 - Update moddesc version
 - Pull out the translation in single files for [#4](https://github.com/Peppie84/FS25_ExtendedLeasing/issues/4)
 - Added `l10n_tr.xml` by [RuyaSavascisi](https://github.com/RuyaSavascisi)
